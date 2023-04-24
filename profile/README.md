@@ -8,5 +8,5 @@
 
 **Développeurs**
 
-- AW.A / AW / AM : Du 17/04 au 25/05
+- AW.A / AW / AM : Du 17/03 au 25/05
 - WP-W : Du 29/04 au 18/05
